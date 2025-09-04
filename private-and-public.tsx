@@ -12,7 +12,7 @@
 //     }
 // }
 
-// In production we use this
+// In production we use this, without assigning and just using empty constructor
 class User {
     readonlycity: string = "Delhi"
     constructor(

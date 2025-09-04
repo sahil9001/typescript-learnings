@@ -13,7 +13,7 @@
 //     }
 // }
 Object.defineProperty(exports, "__esModule", { value: true });
-// In production we use this
+// In production we use this, without assigning and just using empty constructor
 var User = /** @class */ (function () {
     function User(email, name) {
         this.email = email;
